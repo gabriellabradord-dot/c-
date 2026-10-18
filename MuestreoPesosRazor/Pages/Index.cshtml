@@ -1,0 +1,69 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Muestreo de Pesos";
+}
+
+<div class="container mt-5">
+    <h2>Sistema de Muestreo de Pesos y Edades</h2>
+    <p class="text-muted">Ingresa las edades y los pesos separados por comas o espacios </p>
+
+   
+    <form method="post" class="mt-4">
+        <div class="mb-3">
+            <label class="form-label"><strong>Edades:</strong></label>
+            <textarea asp-for="EdadesTexto" class="form-control" rows="3" placeholder=""></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label"><strong>Pesos (kg):</strong></label>
+            <textarea asp-for="PesosTexto" class="form-control" rows="3" placeholder=""></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Calcular Promedios</button>
+    </form>
+
+    
+    @if (Model.HaCalculado)
+    {
+        <hr class="my-4">
+        <h3 class="mb-3">Resultados del Muestreo</h3>
+        <div class="row">
+           
+            <div class="col-md-3">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Niños (0-12)</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContNiños</strong></p>
+                    <p class="text-primary mb-0">Promedio: <strong>@Model.PromedioNiños.ToString("F2") kg</strong></p>
+                </div>
+            </div>
+
+            
+            <div class="col-md-3">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Jóvenes (13-29)</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContJovenes</strong></p>
+                    <p class="text-primary mb-0">Promedio: <strong>@Model.PromedioJovenes.ToString("F2") kg</strong></p>
+                </div>
+            </div>
+
+           
+            <div class="col-md-3">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Adultos (30-59)</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContAdultos</strong></p>
+                    <p class="text-primary mb-0">Promedio: <strong>@Model.PromedioAdultos.ToString("F2") kg</strong></p>
+                </div>
+            </div>
+
+            
+            <div class="col-md-3">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Viejos (60+)</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContAdultosMayores</strong></p>
+                    <p class="text-primary mb-0">Promedio: <strong>@Model.PromedioAdultosMayores.ToString("F2") kg</strong></p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

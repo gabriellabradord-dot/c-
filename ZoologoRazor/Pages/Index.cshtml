@@ -1,0 +1,64 @@
+﻿@page
+@model ZoologoRazor.Pages.IndexModel
+@{
+    ViewData["Title"] = "Estudio del Zoólogo";
+}
+
+<div class="container mt-5">
+    <h2>Estudio de Edades en el Zoólogo</h2>
+    <p class="text-muted">Selecciona el animal a estudiar e ingresa las edades de los especímenes.</p>
+
+    <form method="post" class="mt-4">
+        <div class="mb-3">
+            <label class="form-label"><strong>Seleccione el animal:</strong></label>
+            <select asp-for="TipoAnimal" class="form-select">
+                <option value="Elefantes">Elefantes (Muestra requerida: 20)</option>
+                <option value="Jirafas">Jirafas (Muestra requerida: 15)</option>
+                <option value="Chimpancés">Chimpancés (Muestra requerida: 40)</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label"><strong>Edades de los animales (separadas por comas o espacios):</strong></label>
+            <textarea asp-for="EdadesTexto" class="form-control" rows="3" placeholder="Ej: 0.5, 2, 4, 1, 1.5, 3..."></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">Calcular Porcentajes</button>
+    </form>
+
+    @if (Model.HaCalculado)
+    {
+        <hr class="my-4">
+        <h3 class="mb-3">Resultados para: @Model.TipoAnimal</h3>
+        <p>Muestras analizadas: <strong>@Model.TotalMuestrasIngresadas</strong> (de @Model.TotalMuestrasRequeridas requeridas)</p>
+
+        <div class="row mt-4">
+            
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>De 0 a 1 año</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContCategoria1</strong></p>
+                    <p class="text-primary fs-4 mb-0"><strong>@Model.Porcentaje1.ToString("F2")%</strong></p>
+                </div>
+            </div>
+
+            
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Más de 1 y menor a 3 años</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContCategoria2</strong></p>
+                    <p class="text-primary fs-4 mb-0"><strong>@Model.Porcentaje2.ToString("F2")%</strong></p>
+                </div>
+            </div>
+
+            
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>3 o más años</h5>
+                    <p class="mb-1">Cantidad: <strong>@Model.ContCategoria3</strong></p>
+                    <p class="text-primary fs-4 mb-0"><strong>@Model.Porcentaje3.ToString("F2")%</strong></p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

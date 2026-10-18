@@ -1,0 +1,53 @@
+﻿@page
+@model AtletaEntrenamientoRazor.Pages.IndexModel
+@{
+    ViewData["Title"] = "Evaluación de Atleta";
+}
+
+<div class="container mt-5">
+    <h2>Evaluación de Rendimiento del Atleta</h2>
+    <p class="text-muted">Ingresa los tiempos en minutos de las pruebas realizadas durante los 10 días (separados por comas)[cite: 5].</p>
+
+    <form method="post" class="mt-4">
+        <div class="mb-3">
+            <label class="form-label"><strong>Tiempos (minutos):</strong></label>
+            <textarea asp-for="TiemposTexto" class="form-control" rows="3" placeholder=""></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-warning">Evaluar Atleta</button>
+    </form>
+
+    @if (Model.HaCalculado)
+    {
+        <hr class="my-4">
+        <h3 class="mb-3">Resultados de la Evaluación</h3>
+
+        <div class="alert @(Model.EsApto ? "alert-success" : "alert-danger")">
+            <h4>Estado del Atleta: <strong>@(Model.EsApto ? "APTO para la prueba" : "Debe buscar otra especialidad")</strong></h4>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Promedio de Tiempos</h5>
+                    <p class="fs-4 text-primary mb-0"><strong>@Model.PromedioTiempos.ToString("F2") min</strong></p>
+                    <small class="text-muted">Condición (&le; 15 min): @(Model.PromedioValido ? "Cumple" : "No cumple")</small>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Sin tiempos > 16 min</h5>
+                    <p class="fs-5 mb-0"><strong>@(Model.NingunoMayor16 ? "Sí (Ninguno)" : "No")</strong></p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card p-3 bg-light shadow-sm">
+                    <h5>Al menos un > 16 min</h5>
+                    <p class="fs-5 mb-0"><strong>@(Model.AlMenosUnoMayor16 ? "Sí" : "No")</strong></p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
