@@ -1,10 +1,42 @@
 ﻿@page
-@model IndexModel
+@model Trabajadores.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Conteo de Personas";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<div class="container mt-5" style="max-width: 650px;">
+    <div class="card shadow border-0 p-4">
+        <h2 class="mb-3 text-primary font-weight-bold">Contador Sencillo de Personas</h2>
+        <p class="text-muted">
+            Esta herramienta te ayuda a contar cuántos hombres y mujeres hay en tu grupo de forma rápida y sin complicaciones.
+        </p>
+
+        <form method="post" class="mt-3">
+            <div class="mb-4">
+                <label for="CantidadPersonas" class="form-label font-weight-bold">
+                    1. ¿Cuántas personas hay en total?
+                </label>
+                <input type="number" id="CantidadPersonas" name="CantidadPersonas" class="form-control form-control-lg" value="@Model.CantidadPersonas" min="1" placeholder="Ej. 5" required />
+            </div>
+
+            <div class="mb-4">
+                <label for="Generos" class="form-label font-weight-bold">
+                    2. Escribe el género de cada persona:
+                </label>
+                <input type="text" id="Generos" name="Generos" class="form-control form-control-lg" value="@Model.Generos" placeholder="Ej. H M H H M (o Hombre Mujer)" required />
+                <div class="form-text text-secondary mt-2">
+                    💡 <b>No te preocupes por los espacios o mayúsculas:</b> Puedes separarlos con espacios o comas. Usa <b>H</b> (Hombre) o <b>M</b> (Mujer).
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg w-100 shadow-sm">Calcular Resultados</button>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model.Resultado))
+        {
+            <div class="mt-4 alert @(Model.TieneErrores ? "alert-warning" : "alert-success") shadow-sm">
+                <h4 class="alert-heading mb-2">Resultado:</h4>
+                <div style="font-size: 1.1rem;">@Html.Raw(Model.Resultado)</div>
+            </div>
+        }
+    </div>
