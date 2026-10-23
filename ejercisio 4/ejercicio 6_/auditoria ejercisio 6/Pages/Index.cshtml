@@ -1,0 +1,81 @@
+﻿@page
+@model Trabajadores.Pages.IndexModel
+@{
+    ViewData["Title"] = "Calculadora de Ahorro e Inversión";
+}
+
+<div class="container mt-4" style="max-width: 700px;">
+    <div class="card shadow-lg border-0 rounded-lg p-4 style-card">
+        
+        <!-- Encabezado con ícono gigante -->
+        <div class="text-center mb-4">
+            <span style="font-size: 3.5rem;">🏦</span>
+            <h2 class="font-weight-bold text-primary mt-2" style="font-size: 2rem;">Calculadora de Ahorros</h2>
+            <p class="text-muted fs-5">
+                Descubre cuánto dinero ganaras guardando tu dinero en el banco durante <b>1 año</b>.
+            </p>
+        </div>
+
+        <form method="post">
+            <!-- 1. Botones de selección rápida -->
+            <div class="mb-4">
+                <label class="form-label font-weight-bold text-dark fs-5">
+                    1. Toca un monto rápido o escribe abajo:
+                </label>
+                <div class="d-flex gap-2 flex-wrap mb-3">
+                    <button type="button" class="btn btn-outline-primary btn-lg flex-fill" onclick="setMonto(100000)">$100,000</button>
+                    <button type="button" class="btn btn-outline-primary btn-lg flex-fill" onclick="setMonto(500000)">$500,000</button>
+                    <button type="button" class="btn btn-outline-primary btn-lg flex-fill" onclick="setMonto(1000000)">$1,000,000</button>
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-text bg-primary text-white fw-bold" style="font-size: 1.5rem;">$</span>
+                    <input type="number" step="any" id="CapitalInicial" name="CapitalInicial" 
+                           class="form-control form-control-lg fs-4 fw-bold" 
+                           value="@Model.CapitalInicial" placeholder="0" required />
+                </div>
+            </div>
+
+            <!-- 2. Selección de método (For vs While) -->
+            <div class="mb-4">
+                <label class="form-label font-weight-bold text-dark fs-5">
+                    2. Elige el tipo de motor de cálculo:
+                </label>
+                <div class="row g-2">
+                    <div class="col-6">
+                        <input type="radio" class="btn-check" name="Metodo" id="btnFor" value="FOR" checked="@(Model.Metodo != "WHILE")">
+                        <label class="btn btn-outline-success w-100 py-3 fs-5 fw-bold" for="btnFor">
+                            🔄 Ciclo FOR
+                        </label>
+                    </div>
+                    <div class="col-6">
+                        <input type="radio" class="btn-check" name="Metodo" id="btnWhile" value="WHILE" checked="@(Model.Metodo == "WHILE")">
+                        <label class="btn btn-outline-info w-100 py-3 fs-5 fw-bold" for="btnWhile">
+                            🔁 Ciclo WHILE
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botón de calcular gigante -->
+            <button type="submit" class="btn btn-success btn-lg w-100 py-3 fs-3 fw-bold shadow">
+                👉 ¡CALCULAR MI GANANCIA!
+            </button>
+        </form>
+
+        <!-- Resultados visuales -->
+        @if (!string.IsNullOrEmpty(Model.Resultado))
+        {
+            <div class="mt-4 p-4 rounded-3 shadow-sm @(Model.TieneErrores ? "bg-warning bg-opacity-25 border border-warning" : "bg-success bg-opacity-10 border border-success")">
+                @Html.Raw(Model.Resultado)
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Script súper simple para asignar el dinero con un toque -->
+<script>
+    function setMonto(valor) {
+        document.getElementById('CapitalInicial').value = valor;
+    }
+</script>

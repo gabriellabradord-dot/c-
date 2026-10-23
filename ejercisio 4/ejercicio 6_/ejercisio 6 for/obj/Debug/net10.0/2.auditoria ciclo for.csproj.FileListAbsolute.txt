@@ -1,0 +1,196 @@
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/appsettings.Development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/appsettings.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.staticwebassets.runtime.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.staticwebassets.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.deps.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.runtimeconfig.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /bin/Debug/net10.0/2.auditoria ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.AssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.RazorAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.RazorAssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.sourcelink.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/scopedcss/bundle/2.auditoria ciclo for.styles.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/scopedcss/projectbundle/2.auditoria ciclo for.bundle.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/hz6rkbr52v-{0}-lugek5hnai-lugek5hnai.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/45ruw1v4vo-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/k78nbz090c-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/s0nit99fqo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/hkdl0x3irb-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/273h5e70tg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/il86onkld4-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/v74o0uiugm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/9yhye821rl-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/52ngzyxo4l-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/7fmbkeop29-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/7o1l1eubz3-{0}-ub07r2b239-ub07r2b239.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/6pldzhq0oy-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/1vjxlsg6zv-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/qkej7m532a-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/yky08xwhtg-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/groxayc5aq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/aq5o3tl4ia-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/z9vbsm57uz-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/3be7kkc74c-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/0dhi3zv5nm-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/gp0f6w3v3h-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/aidano9br2-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/mnlzuie0bs-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/gnscj3dtlw-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/b3z01b4tin-{0}-06098lyss8-06098lyss8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/v7m4rts07e-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/39r7j842pt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/55llzz1epu-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/y4yas5302t-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/vr7pbgnbqp-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/7jdvs0xcz3-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/vc9suq4ji0-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/58usgupop2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/3cittrmtzh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/vflg2fevpj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/9li9mzsh0z-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/x4cwjeo4ub-{0}-493y06b0oq-493y06b0oq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/ni7rofo4l1-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/l2cou2wfav-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/txjhmu78p8-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/wv7pu7k7ss-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/sz4hs48rqa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/t8fwc1z4px-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/vsw9x9wazu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/6ohsdrbdd2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/4e1iye5qsg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/l13ed17mse-{0}-47otxtyo56-47otxtyo56.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/500y10ifox-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/6x3pcuj7i6-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/1xchp4qurn-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/ahakpilmef-{0}-qlccset4i1-qlccset4i1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/14obfh7ryq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/841pytx2hd-{0}-ag7o75518u-ag7o75518u.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/q8liz1r34w-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/4cuhnq57ne-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/pj7s5bucxe-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/h5f63nyfys-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/ql0e933o6h-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/0a8hk96wzr-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/k675govfb6-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/l4op1ezpzg-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/9p394kkqw9-{0}-sl4rcpnaze-sl4rcpnaze.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/compressed/pl0hmx6c3t-{0}-sl4rcpnaze-sl4rcpnaze.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/staticwebassets.build.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/staticwebassets.development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/swae.build.ex.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/refint/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/2.auditoria ciclo for.genruntimeconfig.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/2.auditoria ciclo for /obj/Debug/net10.0/ref/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/appsettings.Development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/appsettings.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.staticwebassets.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.staticwebassets.runtime.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.deps.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.runtimeconfig.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/bin/Debug/net10.0/2.auditoria ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.AssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.RazorAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.RazorAssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.sourcelink.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/scopedcss/bundle/2.auditoria ciclo for.styles.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/scopedcss/projectbundle/2.auditoria ciclo for.bundle.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/hz6rkbr52v-{0}-lugek5hnai-lugek5hnai.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/45ruw1v4vo-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/k78nbz090c-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/s0nit99fqo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/hkdl0x3irb-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/273h5e70tg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/il86onkld4-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/v74o0uiugm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/9yhye821rl-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/52ngzyxo4l-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/7fmbkeop29-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/7o1l1eubz3-{0}-ub07r2b239-ub07r2b239.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/6pldzhq0oy-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/1vjxlsg6zv-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/qkej7m532a-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/yky08xwhtg-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/groxayc5aq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/aq5o3tl4ia-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/z9vbsm57uz-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/3be7kkc74c-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/0dhi3zv5nm-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/gp0f6w3v3h-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/aidano9br2-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/mnlzuie0bs-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/gnscj3dtlw-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/b3z01b4tin-{0}-06098lyss8-06098lyss8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/v7m4rts07e-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/39r7j842pt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/55llzz1epu-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/y4yas5302t-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/vr7pbgnbqp-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/7jdvs0xcz3-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/vc9suq4ji0-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/58usgupop2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/3cittrmtzh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/vflg2fevpj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/9li9mzsh0z-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/x4cwjeo4ub-{0}-493y06b0oq-493y06b0oq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/ni7rofo4l1-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/l2cou2wfav-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/txjhmu78p8-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/wv7pu7k7ss-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/sz4hs48rqa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/t8fwc1z4px-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/vsw9x9wazu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/6ohsdrbdd2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/4e1iye5qsg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/l13ed17mse-{0}-47otxtyo56-47otxtyo56.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/500y10ifox-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/6x3pcuj7i6-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/1xchp4qurn-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/ahakpilmef-{0}-qlccset4i1-qlccset4i1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/14obfh7ryq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/841pytx2hd-{0}-ag7o75518u-ag7o75518u.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/q8liz1r34w-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/4cuhnq57ne-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/pj7s5bucxe-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/h5f63nyfys-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/ql0e933o6h-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/0a8hk96wzr-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/k675govfb6-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/l4op1ezpzg-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/9p394kkqw9-{0}-sl4rcpnaze-sl4rcpnaze.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/compressed/pl0hmx6c3t-{0}-sl4rcpnaze-sl4rcpnaze.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/staticwebassets.build.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/staticwebassets.development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/swae.build.ex.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/refint/2.auditoria ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/2.auditoria ciclo for.genruntimeconfig.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/ejercisio 6/obj/Debug/net10.0/ref/2.auditoria ciclo for.dll

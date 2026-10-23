@@ -1,0 +1,98 @@
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/appsettings.Development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/appsettings.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.staticwebassets.runtime.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.staticwebassets.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.deps.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.runtimeconfig.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/bin/Debug/net10.0/1.con ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.AssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.RazorAssemblyInfo.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.RazorAssemblyInfo.cs
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.sourcelink.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/scopedcss/bundle/1.con ciclo for.styles.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/scopedcss/projectbundle/1.con ciclo for.bundle.scp.css
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/bk7zmpd4s1-{0}-lugek5hnai-lugek5hnai.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/gbl1bbh6sn-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/r6qazpci54-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/q4prll4nc9-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/6e8bp4yl0c-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/ijl1hcl2xo-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/j99u6xsc29-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/rfm0nmveiv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/f62wc5bfmx-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/k4u1urmbkg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/hcz2wgnyvn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/vb19znedys-{0}-ub07r2b239-ub07r2b239.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/0q787cszqu-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/7gn7k7bl6r-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/mw4mdjw2s5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/5ip49yisif-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/qmpfzc3k4q-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/n8cs00fok7-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/15j4gadirq-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/3c3wbfuxun-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/7f2g5ecj4o-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/n5ha8ek00r-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/q6zq09jr25-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/tda44nqav2-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/ezahvbic85-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/wb7gk156sh-{0}-06098lyss8-06098lyss8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/ccvyo7jxrs-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/ygwjc9442l-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/k8nnr4poni-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/btft5ozbmj-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/wwdz2c4c8g-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/tyyi7qg1gg-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/xko82x81xu-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/go7og1ej7w-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/c60wx8z4t7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/4ae29lfbfu-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/qqjetu6o2a-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/gp9rmad2da-{0}-493y06b0oq-493y06b0oq.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/4e5m8u60aw-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/tqlmlie0gv-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/0kyfpfh4ej-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/dfi17wb0x6-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/eg7emo41yg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/qyvg8mi8ix-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/43z5g0fsw1-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/zo7n67dyyo-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/cobuvwb6s6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/6ehvxhx54e-{0}-47otxtyo56-47otxtyo56.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/41ro3zm7kj-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/7k43c08gvi-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/wzalhs10ky-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/4a5bocoige-{0}-qlccset4i1-qlccset4i1.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/g0jrgim02r-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/1e03345rps-{0}-ag7o75518u-ag7o75518u.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/0jywi7mzv0-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/i5wvi1gbuw-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/u62uollc9b-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/44o2cjdy53-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/t65tq3cfv8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/3b15m5u0iz-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/oygshzb63k-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/arotnpzrtd-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/la1z5dl39q-{0}-ccnj0cdm9n-ccnj0cdm9n.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/compressed/81ilpatup7-{0}-ccnj0cdm9n-ccnj0cdm9n.gz
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/staticwebassets.build.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/staticwebassets.development.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/swae.build.ex.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/refint/1.con ciclo for.dll
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.pdb
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/1.con ciclo for.genruntimeconfig.cache
+/home/gabriel/Documentos/aplicacion c#/ejercisio 4/1.con ciclo for/obj/Debug/net10.0/ref/1.con ciclo for.dll

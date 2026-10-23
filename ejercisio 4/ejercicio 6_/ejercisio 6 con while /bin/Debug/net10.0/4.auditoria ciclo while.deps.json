@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "4.auditoria ciclo while/1.0.0": {
+        "runtime": {
+          "4.auditoria ciclo while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4.auditoria ciclo while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

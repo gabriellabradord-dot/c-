@@ -1,0 +1,42 @@
+﻿@page
+@model Trabajadores.Pages.IndexModel
+@{
+    ViewData["Title"] = "Conteo de Calcomanías por Placa";
+}
+
+<div class="container mt-5" style="max-width: 650px;">
+    <div class="card shadow border-0 p-4">
+        <h2 class="mb-3 text-primary font-weight-bold">Control de Calcomanías - Tránsito</h2>
+        <p class="text-muted">
+            Ingresa la cantidad total de autos y los últimos dígitos de las placas para conocer cuántas calcomanías hay de cada color.
+        </p>
+
+        <form method="post" class="mt-3">
+            <div class="mb-4">
+                <label for="CantidadAutos" class="form-label font-weight-bold">
+                    1. Cantidad total de autos :
+                </label>
+                <input type="number" id="CantidadAutos" name="CantidadAutos" class="form-control form-control-lg" value="@Model.CantidadAutos" min="1" placeholder="" required />
+            </div>
+
+            <div class="mb-4">
+                <label for="UltimosDigitos" class="form-label font-weight-bold">
+                    2. Últimos dígitos de las placas:
+                </label>
+                <input type="text" id="UltimosDigitos" name="UltimosDigitos" class="form-control form-control-lg" value="@Model.UltimosDigitos" placeholder="" required />
+                <div class="form-text text-secondary mt-2">
+                     Sepáralos con comas o espacios. Relación: <b>1-2</b> (Amarilla), <b>3-4</b> (Rosa), <b>5-6</b> (Roja), <b>7-8</b> (Verde), <b>9-0</b> (Azul).
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg w-100 shadow-sm">Calcular Calcomanías</button>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model.Resultado))
+        {
+            <div class="mt-4 alert @(Model.TieneErrores ? "alert-warning" : "alert-success") shadow-sm">
+                <div style="font-size: 1.1rem;">@Html.Raw(Model.Resultado)</div>
+            </div>
+        }
+    </div>
+</div>
