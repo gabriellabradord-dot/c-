@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtletaEntrenamientoRazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf570d520a21ea47d8d6641bb1c20746856889bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtletaEntrenamientoRazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtletaEntrenamientoRazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

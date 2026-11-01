@@ -95,3 +95,4 @@
 /home/gabriel/Documentos/aplicacion c#/AtletaEntrenamientoRazor/obj/Debug/net10.0/AtletaEntrenamientoRazor.pdb
 /home/gabriel/Documentos/aplicacion c#/AtletaEntrenamientoRazor/obj/Debug/net10.0/AtletaEntrenamientoRazor.genruntimeconfig.cache
 /home/gabriel/Documentos/aplicacion c#/AtletaEntrenamientoRazor/obj/Debug/net10.0/ref/AtletaEntrenamientoRazor.dll
+/home/gabriel/Documentos/aplicacion c#/AtletaEntrenamientoRazor/obj/Debug/net10.0/AtletaEntrenamientoRazor.sourcelink.json
